@@ -3,4 +3,4 @@ Before running test.py create KEY directory and import key.py. After that you ha
 
 #Description
 
-Program finds the most central person among classmates in closeness, betweenness and eigenvector centrality.
+Program finds the most central person among classmates their friends and friends of their friends in closeness, betweenness and eigenvector centrality.
